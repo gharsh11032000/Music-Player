@@ -119,6 +119,10 @@ h3 {
 
 /* Media Query: iPhone (Vertical) */
 @media screen and (max-width: 450px) {
+   body {
+    background: #c95f97;
+  }
+  
   .player-container {
     width: 300px;
     height: 400px;
